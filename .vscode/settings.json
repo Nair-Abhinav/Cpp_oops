@@ -59,5 +59,6 @@
   "files.associations": {
     "*.ejs": "html",
     "new": "cpp"
-  }
+  },
+  "liveServer.settings.port": 5501
 }
